@@ -1,0 +1,4 @@
+C:\Users\nicol\Desktop\NetworkingLib\bin\Debug\NetworkingLib.dll
+C:\Users\nicol\Desktop\NetworkingLib\bin\Debug\NetworkingLib.pdb
+C:\Users\nicol\Desktop\NetworkingLib\obj\Debug\NetworkingLib.dll
+C:\Users\nicol\Desktop\NetworkingLib\obj\Debug\NetworkingLib.pdb
